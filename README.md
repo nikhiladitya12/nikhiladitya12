@@ -1,5 +1,5 @@
 
-![MasterHead ](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/237040387/original/73f6f0b8194ace5f904908852d29f997ab022514/develop-your-custom-website-using-mern-technologies.png)
+![MasterHead ](https://img.freepik.com/free-photo/3d-portrait-people_23-2150793856.jpg?t=st=1722313729~exp=1722317329~hmac=a948f57e06eea844bbb8e377d2ecaabeb2d31fbddd4fbae01cf086e72d9aa0b8&w=1060)
 <h1 align="center">Hi 👋, I'm Nikhil Aditya</h1>
 <h3 align="center">A passionate Mern Stack Developer a Btech Computer Science Student from Technocrats institute of technology & Science ,Bhopal,M.P</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")>
