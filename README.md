@@ -1,5 +1,5 @@
 
-![MasterHead ](https://img.freepik.com/free-photo/3d-portrait-people_23-2150793856.jpg?t=st=1722313729~exp=1722317329~hmac=a948f57e06eea844bbb8e377d2ecaabeb2d31fbddd4fbae01cf086e72d9aa0b8&w=1060)
+![MasterHead ](https://img.freepik.com/free-photo/beautiful-office-space-cartoon-style_23-2151043333.jpg?t=st=1722314475~exp=1722318075~hmac=e95f4f8461244a5dde5352ebcdaadfb11d535c76386830c451311d52431a2700&w=996)
 <h1 align="center">Hi 👋, I'm Nikhil Aditya</h1>
 <h3 align="center">A passionate MERN Stack Developer & B.Tech Computer Science Student at Technocrats Institute of Technology & Science, Bhopal, M.P.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
