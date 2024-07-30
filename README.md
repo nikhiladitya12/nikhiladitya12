@@ -1,5 +1,5 @@
 
-![MasterHead ](https://wallpapercave.com/w/wp8904080)
+![MasterHead ]([https://wallpapercave.com/w/wp8904080](https://wallpapercave.com/wp/wp8904080.jpg))
 <h1 align="center">Hi 👋, I'm Nikhil Aditya</h1>
 <h3 align="center">A passionate Mern Stack Developer a Btech Computer Science Student from Technocrats institute of technology & Science ,Bhopal,M.P</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")>
