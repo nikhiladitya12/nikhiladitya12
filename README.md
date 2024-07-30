@@ -15,6 +15,42 @@
 
 📫 How to reach me: nikhiladitya.22@gmail.com
 
+<h3 align="left">About Me:</h3>
+<p>
+I'm a dedicated MERN Stack Developer with a passion for creating dynamic and responsive web applications. As a Computer Science student, I have developed a strong foundation in both front-end and back-end technologies, and I continuously seek opportunities to expand my skills and knowledge.
+</p>
+<h3 align="left">My MERN Stack Expertise:</h3>
+<ul>
+  <li>**MongoDB**: Proficient in using MongoDB for database management, creating schemas, and performing CRUD operations.</li>
+  <li>**Express.js**: Skilled in building RESTful APIs with Express.js, handling middleware, and integrating with databases.</li>
+  <li>**React.js**: Experienced in developing responsive UIs using React.js, managing state with Redux, and implementing context APIs.</li>
+  <li>**Node.js**: Competent in building scalable server-side applications with Node.js, managing dependencies with npm, and handling asynchronous programming.</li>
+</ul>
+<h3 align="left">Projects:</h3>
+<ul>
+  <li>
+    <b>CodersRealm</b> - An Edtech Platform
+    <ul>
+      <li>Technologies: MongoDB, Express.js, Node.js, React.js</li>
+      <li>Description: A platform to connect students with coding mentors, providing resources and interactive coding challenges.</li>
+    </ul>
+  </li>
+  <li>
+    <b>SHOWVISTA</b> - A Movie Recommendation App
+    <ul>
+      <li>Technologies: HTML5, CSS3, JavaScript, React.js, Redux Toolkit, Tailwind CSS</li>
+      <li>Description: An app that recommends movies based on user preferences, featuring a sleek UI and real-time updates.</li>
+      <li>Deployed on: Netlify</li>
+    </ul>
+  </li>
+  <li>
+    <b>GIFVERVE</b> - A Gif Generator
+    <ul>
+      <li>Technologies: React.js, Context API, Tailwind CSS, Giphy API</li>
+      <li>Description: A fun application to generate and share GIFs based on user input, utilizing the Giphy API.</li>
+    </ul>
+  </li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/n_ikhiladitya" target="blank">
