@@ -1,5 +1,5 @@
 
-![MasterHead ](https://img.freepik.com/premium-vector/vector-concept-illustration-programmer-engineer-with-laptop-sitting-office-desk-holding-pen-while-coding-developing-flat-cartoon-style_270158-379.jpg?w=996)
+![MasterHead ](https://wallpapercave.com/w/wp8904080)
 <h1 align="center">Hi 👋, I'm Nikhil Aditya</h1>
 <h3 align="center">A passionate Mern Stack Developer a Btech Computer Science Student from Technocrats institute of technology & Science ,Bhopal,M.P</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")>
